@@ -1,4 +1,3 @@
-# Agile-Explained
 XP
 - impossible to gather all the requirements at the start of the project
 - Gathered requirements are guaranteed to change.
@@ -91,3 +90,15 @@ daily standups
 - what you will do today?
 - sorunları nasıl çözmeyi planlıyorsun?
 
+total of team meetings should take less than 1 hour (showcase, iteration planning, retrospective)
+
+only fully tested complete stories will be shown in iterations, if not fullt completed, take it to the next itretaion.
+
+refactoring code
+is the practice of continuously making small, incremental design improvements to our software without changing overall external behaviour
+we arent adding new fuctionality or fix bugs, instead we improve the understandibility of code.
+
+WRITE TESTS BEFORE WRITING CODE! video 27 1. minute take this picture
+first write all fail cases
+second write all pass cases
+third refactor code
