@@ -1,3 +1,6 @@
+# Description
+*This is a summarize of [The Agile Samurai Bootcamp](https://www.udemy.com/course/the-agile-samurai-bootcamp) course*
+
 # Waterfall vs Agile
 
 - Waterfall is essentially making a good plan and sticking to it.
@@ -5,9 +8,9 @@
 - Agile utilises a more flexible, iterative approach.
 
 # Agile
-- **Not necessary for solo start-ups because you don't even have a working application yet.** [**The Lean Startup**](./link)
-- Suggested Agile Program for Application Project. [**Name Of Program**](./link)
-- Suggested CI/CD program for Apple Ecosystem Development. [**Name Of Program**](./link) (Jira-complex? Trello-basic?)
+- **Not necessary for solo start-ups because you don't even have a working application yet.** [**The Lean Startup**](https://en.wikipedia.org/wiki/The_Lean_Startup)
+
+<!-- - Suggested CI/CD program for Apple Ecosystem Development. [**Name Of Program**](./link) (Jira-complex? Trello-basic?) )  -->
 
 ### Kanban
 - Do not prescribe roles like Scrum does, team structure can stay how it was.
@@ -143,25 +146,10 @@
 
   Culture of production readiness, anyone, anytime, any where.
 
-  <img src=".\pipeline.png" alt="pipeline" style="zoom:60%;" />
+  <img src="./pipeline.jpg" alt="pipeline" style="zoom:60%;" />
 
   1. CI/CD environment must be ready just before first iteration.
   2. CI/CD must be used for all iterations during project.
   3. Developers should pull existing code from Repository daily to their feature branch.
 
 	<img src=".\cIMerging.png" alt="cIMerging" style="zoom:60%;" />
-
-
-
-
-
-agileTeam.png -> Udemy bolum 1-dk 11
-sampleUserStories -> bolum 8-dk 2.22
-pokerEstimation.png - > bolum 10-dk 12
-iterations.png -> bolum 19-dk 1
-exampleStory.png -> bolum 8-dk 10
-burnDownChart.png -> bolum 15-dk 1
-writeTest.png -> bolum 27-dk 1
-testCriteria.png -> bolum 27-dk 2.57 -> back of story card
-cIMerging.png -> bolum 28-dk 6.46
-pipeline.png -> www.mitrais.com/wp-content/uploads/2020/11/img-diagram-cicd-01.jpg
