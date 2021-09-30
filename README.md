@@ -90,7 +90,7 @@
   <img src=".\Assets\burnDownChart.png" alt="burnDownChart" width="732" height="439" />
 
   - When something unexpectedly occoured replan your burndown chart and calculate new estimated project delivery date.
-  - [Burndown Chart Template](./sampleBurnDownChart.xls)
+  - [Burndown Chart Template](.\Assets\sampleBurnDownChart.xlsx)
 
 - ### Strict project planning
 	Create two Master Story List in the beginning of project, don't touch first one until the end of project, change second one according to project needs during project.
