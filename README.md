@@ -44,7 +44,7 @@
   - Agile Project Manager: Prepares Software Development Environment, tracks process(Time, Budged, Quality, Risk) of project and gives feedback to the team.
 
 - Agile team must responsible from all work and kept informed about whole project in Sprits.
-	<img src=".\agileTeam.png" alt="agileTeam" style="zoom:50%;" />
+	<img src=".\Assets\agileTeam.png" alt="agileTeam" width="450" height="265" />
 
 - If you create a new team to make team engaged, demo your software like you are presenting to the customer, see if its successfull then find bad parts and retry.
 
@@ -59,7 +59,7 @@
 	- Each story must be testable.
 	- Set testing criterias with customer, do not over test anything.
 
-		<img src=".\testCriteria.png" alt="testCriteria" style="zoom:50%;" />
+		<img src=".\Assets\testCriteria.png" alt="testCriteria" width="328" height="95" />
 
 	- Set documenting criterias with customer, document as less as possible.
 	- You have to persuade customer that stories may change according to project needs in the future.
@@ -67,16 +67,16 @@
 	- Limit your story count to 10-40 (3-6 months long) do not go beyond in the beginning, later you may make 1-3 months plans for future.
 	- Story timing should be relative each other so that you can take reference and resize new stories according to the reference.
 
-		<img src=".\sampleUserStories.png" alt="sampleUserStories" style="zoom:50%;" />
+		<img src=".\Assets\sampleUserStories.png" alt="sampleUserStories" width="329" height="234" />
 
 	- Multiply estimated points by reference date to calculate project time.
 	- Use below template to create each story.
 
-		<img src=".\exampleStory.png" alt="exampleStory" style="zoom:60%;" />
+		<img src=".\Assets\exampleStory.png" alt="exampleStory" width="320" height="89" />
 
 	- Make Poker Estimation for Story planning.
 
-		<img src=".\pokerEstimation.png" alt="pokerEstimation" style="zoom:60%;" />
+		<img src=".\Assets\pokerEstimation.png" alt="pokerEstimation" width="362" height="264" />
 
 	- Complete Story List is called Master Story List.
 
@@ -87,7 +87,7 @@
 - ### Burndown chart
 	Shows how fast our team burning down user stories.
 
-  <img src=".\burnDownChart.png" alt="burnDownChart" style="zoom:60%;" />
+  <img src=".\Assets\burnDownChart.png" alt="burnDownChart" width="732" height="439" />
 
   - When something unexpectedly occoured replan your burndown chart and calculate new estimated project delivery date.
   - [Burndown Chart Template](./sampleBurnDownChart.xls)
@@ -116,7 +116,7 @@
   - Tell customer the estimated time of planned iteration!
 - Iteration 0 - Setup Phrase: Source control, development and test environments. (Xcode, Git, Fastlane setup etc...)
 
-<img src=".\iterations.png" alt="iterations" style="zoom:60%;" />
+<img src=".\Assets\iterations.png" alt="iterations" width="735" height="294" />
 
 #### Retrospective - Team Talks without Customer
 15-30 minutes talks.
@@ -137,19 +137,18 @@
   1. Write all fail cases.
   2. Write all pass cases.
   3. Refactor code.
+ 
+     > **Refactoring** is the practice of continuously making small, incremental design improvements to our software without changing overall external behavior. We aren't adding new fuctionality or fix bugs, instead we improve the understandability of code.
 
-	> **Refactoring** is the practice of continuously making small, incremental design improvements to our software without changing overall external behavior. We aren't adding new fuctionality or fix bugs, instead we improve the understandability of code.
-
-	<img src=".\writeTest.png" alt="writeTest" style="zoom:60%;" />
+     <img src=".\Assets\writeTest.png" alt="writeTest" width="342" height="283" />
 
 2. **Continuous Integration - Continuous Deployment (CI/CD)**
 
   Culture of production readiness, anyone, anytime, any where.
 
-  <img src="./pipeline.jpg" alt="pipeline" style="zoom:60%;" />
+  <img src=".\Assets\pipeline.jpg" alt="pipeline" width="690" height="230" />
 
   1. CI/CD environment must be ready just before first iteration.
   2. CI/CD must be used for all iterations during project.
   3. Developers should pull existing code from Repository daily to their feature branch.
-
-	<img src=".\cIMerging.png" alt="cIMerging" style="zoom:60%;" />
+     <img src=".\Assets\cIMerging.png" alt="cIMerging" width="539" height="262" />
